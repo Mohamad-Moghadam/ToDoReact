@@ -5,7 +5,7 @@ import './App.css'
 import { Index } from './components'
 
 function App() {
-  return <div>
+  return <div className='flex items-center justify-center min-h-screen'>
     <Index/>
   </div>
 }
